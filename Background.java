@@ -1,8 +1,6 @@
 // Lab07stv110.java
-// This is the 110 point version
 // Janee Yeak
 // 5 November 2020
-// APCS, Chris Robinson
 // This program creates the class 'Background'
 
 import java.awt.*;
